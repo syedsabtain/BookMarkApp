@@ -1,0 +1,18 @@
+body{
+    background-image: url('../images/bgimage.jpg');
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.txt{
+   color: white;
+   text-shadow: 2px 2px 2px black;
+}
+.cardbg{
+    
+    background-color: rgba(255, 255, 255, 0.582)!important;
+}
+.txtsize{
+    font-size: 50px!important;
+}
